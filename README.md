@@ -2,7 +2,7 @@
 
 ### 你好，世界 👋
 
-- :love： code
+- :love code
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
